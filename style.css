@@ -1,0 +1,13 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+.background-main{
+    background-color: #babed7;
+}
+.padding{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.break{
+    padding-bottom: 500px;
+}
